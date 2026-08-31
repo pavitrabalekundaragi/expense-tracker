@@ -25,6 +25,8 @@ The application stores expense data in both **CSV and JSON formats** for easy da
 - **File Handling**
 - **Datetime**
 - **Command Line Interface (CLI)**
+- **python-project**
+- **beginner-project**
 
 ## 📂 Project Structure
 
