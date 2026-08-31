@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "2026-08-31",
+        "Category": "food",
+        "Amount": 150.0,
+        "Description": "lunch"
+    },
+    {
+        "Date": "2026-08-31",
+        "Category": "travel",
+        "Amount": 80.0,
+        "Description": "bus ticket"
+    },
+    {
+        "Date": "2026-08-31",
+        "Category": "shopping",
+        "Amount": 500.0,
+        "Description": "clothes"
+    },
+    {
+        "Date": "2026-08-31",
+        "Category": "education",
+        "Amount": 300.0,
+        "Description": "study materials"
+    }
+]
